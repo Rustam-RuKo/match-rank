@@ -1,0 +1,1214 @@
+[
+  {
+    "university_id": "uni-000",
+    "name": "United States Institute 1",
+    "country": "United States",
+    "tuition_usd": 13087.0,
+    "majors": [
+      "design",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 77.0,
+    "min_test_score": 1372.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.2112152761269722,
+    "acceptance_rate": 0.831229210760302,
+    "prestige_score": 0.7936889675524754,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-001",
+    "name": "Canada Institute 2",
+    "country": "Canada",
+    "tuition_usd": 48896.0,
+    "majors": [
+      "design",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 89.0,
+    "min_test_score": 1147.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.7523972427515913,
+    "acceptance_rate": 0.5757761424621117,
+    "prestige_score": 0.8417540583512475,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-002",
+    "name": "United Kingdom Institute 3",
+    "country": "United Kingdom",
+    "tuition_usd": 39089.0,
+    "majors": [
+      "design",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 67.0,
+    "min_test_score": 1205.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.6879602617951784,
+    "acceptance_rate": 0.5663815873239899,
+    "prestige_score": 0.7913084372665917,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-003",
+    "name": "Germany Institute 4",
+    "country": "Germany",
+    "tuition_usd": 47929.0,
+    "majors": [
+      "business",
+      "computer science"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 77.0,
+    "min_test_score": 1391.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.2765151601037789,
+    "acceptance_rate": 0.43937517286981637,
+    "prestige_score": 0.23416693731403845,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-004",
+    "name": "Australia Institute 5",
+    "country": "Australia",
+    "tuition_usd": 39154.0,
+    "majors": [
+      "computer science",
+      "economics"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 91.0,
+    "min_test_score": 1309.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.36178648278979875,
+    "acceptance_rate": 0.3652539736468491,
+    "prestige_score": 0.5662535327951301,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-005",
+    "name": "United States Institute 6",
+    "country": "United States",
+    "tuition_usd": 53353.0,
+    "majors": [
+      "engineering",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 84.0,
+    "min_test_score": 1161.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.5853790965436317,
+    "acceptance_rate": 0.4166069775316947,
+    "prestige_score": 0.8494889929251133,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-006",
+    "name": "Canada Institute 7",
+    "country": "Canada",
+    "tuition_usd": 43896.0,
+    "majors": [
+      "computer science",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 87.0,
+    "min_test_score": 1357.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.40186094636961345,
+    "acceptance_rate": 0.30201264002628797,
+    "prestige_score": 0.7323464931004808,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-007",
+    "name": "United Kingdom Institute 8",
+    "country": "United Kingdom",
+    "tuition_usd": 44295.0,
+    "majors": [
+      "economics",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 88.0,
+    "min_test_score": 904.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.5821530567848209,
+    "acceptance_rate": 0.622977341542278,
+    "prestige_score": 0.8089686441971349,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-008",
+    "name": "Germany Institute 9",
+    "country": "Germany",
+    "tuition_usd": 39671.0,
+    "majors": [
+      "engineering",
+      "medicine"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 66.0,
+    "min_test_score": 976.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.5844619251638066,
+    "acceptance_rate": 0.44274407873021204,
+    "prestige_score": 0.6408841630553272,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-009",
+    "name": "Australia Institute 10",
+    "country": "Australia",
+    "tuition_usd": 12514.0,
+    "majors": [
+      "medicine",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 81.0,
+    "min_test_score": 1204.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.3475675637406979,
+    "acceptance_rate": 0.10372973261731334,
+    "prestige_score": 0.5406395636012427,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-010",
+    "name": "United States Institute 11",
+    "country": "United States",
+    "tuition_usd": 64016.0,
+    "majors": [
+      "design",
+      "business"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 93.0,
+    "min_test_score": 1369.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.1878967820978929,
+    "acceptance_rate": 0.29666559685693733,
+    "prestige_score": 0.42900313105801324,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-011",
+    "name": "Canada Institute 12",
+    "country": "Canada",
+    "tuition_usd": 32756.0,
+    "majors": [
+      "medicine",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 79.0,
+    "min_test_score": 1331.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.41415145993604585,
+    "acceptance_rate": 0.7067956961928467,
+    "prestige_score": 0.33023887752800907,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-012",
+    "name": "United Kingdom Institute 13",
+    "country": "United Kingdom",
+    "tuition_usd": 27054.0,
+    "majors": [
+      "design",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 87.0,
+    "min_test_score": 1297.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.25482665637184115,
+    "acceptance_rate": 0.46580447682959,
+    "prestige_score": 0.3188034401162714,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-013",
+    "name": "Germany Institute 14",
+    "country": "Germany",
+    "tuition_usd": 36347.0,
+    "majors": [
+      "engineering",
+      "medicine"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 69.0,
+    "min_test_score": 1109.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.5596836855272775,
+    "acceptance_rate": 0.35859571012611063,
+    "prestige_score": 0.2683669370665588,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-014",
+    "name": "Australia Institute 15",
+    "country": "Australia",
+    "tuition_usd": 27527.0,
+    "majors": [
+      "computer science",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 75.0,
+    "min_test_score": 1399.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.32281547494868773,
+    "acceptance_rate": 0.8262658105577474,
+    "prestige_score": 0.8074257050933198,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-015",
+    "name": "United States Institute 16",
+    "country": "United States",
+    "tuition_usd": 22884.0,
+    "majors": [
+      "economics",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 86.0,
+    "min_test_score": 1049.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.7366915577534972,
+    "acceptance_rate": 0.43094774317188056,
+    "prestige_score": 0.3578434245402797,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-016",
+    "name": "Canada Institute 17",
+    "country": "Canada",
+    "tuition_usd": 49132.0,
+    "majors": [
+      "business",
+      "economics"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 80.0,
+    "min_test_score": 997.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6430376943928866,
+    "acceptance_rate": 0.6339864760822213,
+    "prestige_score": 0.5370325710245809,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-017",
+    "name": "United Kingdom Institute 18",
+    "country": "United Kingdom",
+    "tuition_usd": 25594.0,
+    "majors": [
+      "medicine",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 67.0,
+    "min_test_score": 1257.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.4202748114108963,
+    "acceptance_rate": 0.11204291387365721,
+    "prestige_score": 0.5853128390107247,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-018",
+    "name": "Germany Institute 19",
+    "country": "Germany",
+    "tuition_usd": 18728.0,
+    "majors": [
+      "medicine",
+      "business"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 84.0,
+    "min_test_score": 956.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.260885429548976,
+    "acceptance_rate": 0.7923424911501338,
+    "prestige_score": 0.6532276889663081,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-019",
+    "name": "Australia Institute 20",
+    "country": "Australia",
+    "tuition_usd": 33481.0,
+    "majors": [
+      "business",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 73.0,
+    "min_test_score": 912.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.4634972340128851,
+    "acceptance_rate": 0.6827061249827203,
+    "prestige_score": 0.2645293999395021,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-020",
+    "name": "United States Institute 21",
+    "country": "United States",
+    "tuition_usd": 23723.0,
+    "majors": [
+      "economics",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 77.0,
+    "min_test_score": 1415.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.45776811068701995,
+    "acceptance_rate": 0.28557126058075805,
+    "prestige_score": 0.4586238179271907,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-021",
+    "name": "Canada Institute 22",
+    "country": "Canada",
+    "tuition_usd": 39065.0,
+    "majors": [
+      "design",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 73.0,
+    "min_test_score": 911.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.7325045016958485,
+    "acceptance_rate": 0.1879917985289303,
+    "prestige_score": 0.6321481919604586,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-022",
+    "name": "United Kingdom Institute 23",
+    "country": "United Kingdom",
+    "tuition_usd": 25994.0,
+    "majors": [
+      "computer science",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 68.0,
+    "min_test_score": 1054.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6225464992864737,
+    "acceptance_rate": 0.6718585687765959,
+    "prestige_score": 0.28403793784559933,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-023",
+    "name": "Germany Institute 24",
+    "country": "Germany",
+    "tuition_usd": 43034.0,
+    "majors": [
+      "design",
+      "economics"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 71.0,
+    "min_test_score": 920.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.3910994845105852,
+    "acceptance_rate": 0.7189381022119581,
+    "prestige_score": 0.8304361482101554,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-024",
+    "name": "Australia Institute 25",
+    "country": "Australia",
+    "tuition_usd": 62903.0,
+    "majors": [
+      "business",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 83.0,
+    "min_test_score": 1060.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.3163773088689418,
+    "acceptance_rate": 0.8007535489377018,
+    "prestige_score": 0.3283940977139742,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-025",
+    "name": "United States Institute 26",
+    "country": "United States",
+    "tuition_usd": 38389.0,
+    "majors": [
+      "business",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 93.0,
+    "min_test_score": 1445.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.636595212647017,
+    "acceptance_rate": 0.7659102179764641,
+    "prestige_score": 0.8968883789643334,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-026",
+    "name": "Canada Institute 27",
+    "country": "Canada",
+    "tuition_usd": 14610.0,
+    "majors": [
+      "design",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 65.0,
+    "min_test_score": 1324.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.3928775237679115,
+    "acceptance_rate": 0.15273933440736676,
+    "prestige_score": 0.7824958968522404,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-027",
+    "name": "United Kingdom Institute 28",
+    "country": "United Kingdom",
+    "tuition_usd": 29659.0,
+    "majors": [
+      "business",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 92.0,
+    "min_test_score": 1032.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.690223236881189,
+    "acceptance_rate": 0.1980289238008604,
+    "prestige_score": 0.3398292803630365,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-028",
+    "name": "Germany Institute 29",
+    "country": "Germany",
+    "tuition_usd": 28930.0,
+    "majors": [
+      "engineering",
+      "economics"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 66.0,
+    "min_test_score": 1008.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.6553131448567655,
+    "acceptance_rate": 0.8283063480669448,
+    "prestige_score": 0.590578125237827,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-029",
+    "name": "Australia Institute 30",
+    "country": "Australia",
+    "tuition_usd": 32720.0,
+    "majors": [
+      "design",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 70.0,
+    "min_test_score": 1026.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.5904781378483573,
+    "acceptance_rate": 0.17381102856396896,
+    "prestige_score": 0.5949373466640937,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-030",
+    "name": "United States Institute 31",
+    "country": "United States",
+    "tuition_usd": 60867.0,
+    "majors": [
+      "medicine",
+      "economics"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 77.0,
+    "min_test_score": 1009.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6150146342502711,
+    "acceptance_rate": 0.6490176830149671,
+    "prestige_score": 0.30222504621470436,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-031",
+    "name": "Canada Institute 32",
+    "country": "Canada",
+    "tuition_usd": 32728.0,
+    "majors": [
+      "computer science",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 67.0,
+    "min_test_score": 1118.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.46757962947849663,
+    "acceptance_rate": 0.5904054438279585,
+    "prestige_score": 0.9453861404966366,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-032",
+    "name": "United Kingdom Institute 33",
+    "country": "United Kingdom",
+    "tuition_usd": 37698.0,
+    "majors": [
+      "business",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 79.0,
+    "min_test_score": 913.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.5620838225927053,
+    "acceptance_rate": 0.16154100088808004,
+    "prestige_score": 0.30946488570985187,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-033",
+    "name": "Germany Institute 34",
+    "country": "Germany",
+    "tuition_usd": 50683.0,
+    "majors": [
+      "engineering",
+      "computer science"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 69.0,
+    "min_test_score": 1227.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.672834595148431,
+    "acceptance_rate": 0.4398838331975745,
+    "prestige_score": 0.8121154904167063,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-034",
+    "name": "Australia Institute 35",
+    "country": "Australia",
+    "tuition_usd": 56277.0,
+    "majors": [
+      "medicine",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 73.0,
+    "min_test_score": 1356.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.3012164822781819,
+    "acceptance_rate": 0.4886925847612712,
+    "prestige_score": 0.6726923401460085,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-035",
+    "name": "United States Institute 36",
+    "country": "United States",
+    "tuition_usd": 61193.0,
+    "majors": [
+      "economics",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 73.0,
+    "min_test_score": 1126.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.42682335614278144,
+    "acceptance_rate": 0.5819868896965801,
+    "prestige_score": 0.8766426927668134,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-036",
+    "name": "Canada Institute 37",
+    "country": "Canada",
+    "tuition_usd": 23622.0,
+    "majors": [
+      "medicine",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 72.0,
+    "min_test_score": 1030.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6807696962255418,
+    "acceptance_rate": 0.16106412148767624,
+    "prestige_score": 0.25191590842503897,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-037",
+    "name": "United Kingdom Institute 38",
+    "country": "United Kingdom",
+    "tuition_usd": 35098.0,
+    "majors": [
+      "design",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 70.0,
+    "min_test_score": 1353.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.2435167564312427,
+    "acceptance_rate": 0.7891472638153366,
+    "prestige_score": 0.329114743733517,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-038",
+    "name": "Germany Institute 39",
+    "country": "Germany",
+    "tuition_usd": 16884.0,
+    "majors": [
+      "medicine",
+      "business"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 78.0,
+    "min_test_score": 963.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.18600701595676908,
+    "acceptance_rate": 0.2144739326206066,
+    "prestige_score": 0.24163790744919683,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-039",
+    "name": "Australia Institute 40",
+    "country": "Australia",
+    "tuition_usd": 32467.0,
+    "majors": [
+      "engineering",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 88.0,
+    "min_test_score": 1116.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.47794205406444956,
+    "acceptance_rate": 0.7537538055206485,
+    "prestige_score": 0.8638826689213208,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-040",
+    "name": "United States Institute 41",
+    "country": "United States",
+    "tuition_usd": 38581.0,
+    "majors": [
+      "engineering",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 90.0,
+    "min_test_score": 1030.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.5213012236328023,
+    "acceptance_rate": 0.40052206779145805,
+    "prestige_score": 0.23841821354352333,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-041",
+    "name": "Canada Institute 42",
+    "country": "Canada",
+    "tuition_usd": 8403.0,
+    "majors": [
+      "business",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 90.0,
+    "min_test_score": 955.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.18377521320231777,
+    "acceptance_rate": 0.7921282391439077,
+    "prestige_score": 0.2773082504323029,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-042",
+    "name": "United Kingdom Institute 43",
+    "country": "United Kingdom",
+    "tuition_usd": 55716.0,
+    "majors": [
+      "economics",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 71.0,
+    "min_test_score": 1438.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6566604015013638,
+    "acceptance_rate": 0.5747121225165717,
+    "prestige_score": 0.8076171565709407,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-043",
+    "name": "Germany Institute 44",
+    "country": "Germany",
+    "tuition_usd": 50125.0,
+    "majors": [
+      "computer science",
+      "economics"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 74.0,
+    "min_test_score": 1182.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.45081958763578533,
+    "acceptance_rate": 0.3765189119972722,
+    "prestige_score": 0.6988593515649459,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-044",
+    "name": "Australia Institute 45",
+    "country": "Australia",
+    "tuition_usd": 22238.0,
+    "majors": [
+      "computer science",
+      "business"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 77.0,
+    "min_test_score": 1162.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.3011704613437679,
+    "acceptance_rate": 0.3629840937886486,
+    "prestige_score": 0.485786110864473,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-045",
+    "name": "United States Institute 46",
+    "country": "United States",
+    "tuition_usd": 50005.0,
+    "majors": [
+      "engineering",
+      "business"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 70.0,
+    "min_test_score": 1277.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.7667576523649713,
+    "acceptance_rate": 0.7855879750443969,
+    "prestige_score": 0.5751101340740613,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-046",
+    "name": "Canada Institute 47",
+    "country": "Canada",
+    "tuition_usd": 51906.0,
+    "majors": [
+      "business",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 92.0,
+    "min_test_score": 1366.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6728546881656003,
+    "acceptance_rate": 0.49019615257062,
+    "prestige_score": 0.6936757508287442,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-047",
+    "name": "United Kingdom Institute 48",
+    "country": "United Kingdom",
+    "tuition_usd": 12130.0,
+    "majors": [
+      "business",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 66.0,
+    "min_test_score": 1011.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.7094673944118312,
+    "acceptance_rate": 0.18171918472218884,
+    "prestige_score": 0.6792161976226975,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-048",
+    "name": "Germany Institute 49",
+    "country": "Germany",
+    "tuition_usd": 44264.0,
+    "majors": [
+      "computer science",
+      "medicine"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 81.0,
+    "min_test_score": 946.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.23931515452457142,
+    "acceptance_rate": 0.8183377893499919,
+    "prestige_score": 0.8246896573463753,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-049",
+    "name": "Australia Institute 50",
+    "country": "Australia",
+    "tuition_usd": 31182.0,
+    "majors": [
+      "engineering",
+      "design"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 93.0,
+    "min_test_score": 1337.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.3146991799954717,
+    "acceptance_rate": 0.5343584394258981,
+    "prestige_score": 0.27413837410023295,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-050",
+    "name": "United States Institute 51",
+    "country": "United States",
+    "tuition_usd": 37671.0,
+    "majors": [
+      "business",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 68.0,
+    "min_test_score": 1210.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.4528903494377978,
+    "acceptance_rate": 0.48242646714510456,
+    "prestige_score": 0.7958602442051386,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-051",
+    "name": "Canada Institute 52",
+    "country": "Canada",
+    "tuition_usd": 60446.0,
+    "majors": [
+      "design",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 71.0,
+    "min_test_score": 1229.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.22782683252572983,
+    "acceptance_rate": 0.17016974574308508,
+    "prestige_score": 0.26841302929039934,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-052",
+    "name": "United Kingdom Institute 53",
+    "country": "United Kingdom",
+    "tuition_usd": 35827.0,
+    "majors": [
+      "economics",
+      "medicine"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 91.0,
+    "min_test_score": 1325.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.3668645429133548,
+    "acceptance_rate": 0.7717422414683826,
+    "prestige_score": 0.7947750747151088,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-053",
+    "name": "Germany Institute 54",
+    "country": "Germany",
+    "tuition_usd": 44166.0,
+    "majors": [
+      "economics",
+      "business"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 80.0,
+    "min_test_score": 1072.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.24605919215242456,
+    "acceptance_rate": 0.8008181467993228,
+    "prestige_score": 0.5415651490150275,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-054",
+    "name": "Australia Institute 55",
+    "country": "Australia",
+    "tuition_usd": 50037.0,
+    "majors": [
+      "business",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 70.0,
+    "min_test_score": 1204.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.6571959710411049,
+    "acceptance_rate": 0.4491145643758961,
+    "prestige_score": 0.4935603893150445,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-055",
+    "name": "United States Institute 56",
+    "country": "United States",
+    "tuition_usd": 45159.0,
+    "majors": [
+      "economics",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 89.0,
+    "min_test_score": 1423.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.7028468914740087,
+    "acceptance_rate": 0.5705468906732298,
+    "prestige_score": 0.2950989091013878,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-056",
+    "name": "Canada Institute 57",
+    "country": "Canada",
+    "tuition_usd": 35255.0,
+    "majors": [
+      "engineering",
+      "computer science"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 80.0,
+    "min_test_score": 906.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.6865096822776088,
+    "acceptance_rate": 0.3074264495149492,
+    "prestige_score": 0.5576675038028699,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-057",
+    "name": "United Kingdom Institute 58",
+    "country": "United Kingdom",
+    "tuition_usd": 25977.0,
+    "majors": [
+      "computer science",
+      "engineering"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 79.0,
+    "min_test_score": 1405.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.22188246714747184,
+    "acceptance_rate": 0.8477166865349313,
+    "prestige_score": 0.8857760189600414,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-058",
+    "name": "Germany Institute 59",
+    "country": "Germany",
+    "tuition_usd": 47016.0,
+    "majors": [
+      "business",
+      "economics"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "min_grade": 66.0,
+    "min_test_score": 958.0,
+    "scholarship_available": false,
+    "scholarship_rate": 0.582695078469249,
+    "acceptance_rate": 0.5805962619802737,
+    "prestige_score": 0.27054376704762356,
+    "metadata": {}
+  },
+  {
+    "university_id": "uni-059",
+    "name": "Australia Institute 60",
+    "country": "Australia",
+    "tuition_usd": 46801.0,
+    "majors": [
+      "design",
+      "economics"
+    ],
+    "languages": [
+      "English"
+    ],
+    "min_grade": 72.0,
+    "min_test_score": 1032.0,
+    "scholarship_available": true,
+    "scholarship_rate": 0.6548991614499421,
+    "acceptance_rate": 0.23261725495393137,
+    "prestige_score": 0.9102978171620906,
+    "metadata": {}
+  }
+]
