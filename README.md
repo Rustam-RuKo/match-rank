@@ -84,13 +84,4 @@ time-stamped interaction data, split chronologically, audit ranking quality by d
 geographic cohorts, calibrate scholarship and admission claims against official data, and never
 treat recommendations as admission guarantees.
 
-## Résumé-ready description
 
-**MatchRank — University Recommendation Engine | Python, scikit-learn, FastAPI**
-
-- Developed a learning-to-rank system matching applicants with universities using academic,
-  financial, geographic, program, language, scholarship, and admissions features.
-- Improved NDCG@10 from 0.9716 to 0.9921 against a weighted-filter baseline across 60 held-out
-  applicant profiles in a reproducible synthetic benchmark.
-- Served a versioned FastAPI recommendation API with Pydantic validation, cold-start fallback,
-  local feature-ablation explanations, latency telemetry, and PSI drift monitoring.
